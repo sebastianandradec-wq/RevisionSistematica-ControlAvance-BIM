@@ -89,7 +89,6 @@ Sobre una muestra aleatoria del 25 % de los artículos post‑duplicados (n = 
 - **Sesgo publicación:** Funnel plot + Egger test
 
 ## 11. ACTUALIZACIONES PROTOCOLO
-Cambios registrados en `CHANGELOG.md`
 
 **Firmas digitales:**  
 Sebastián Andrade Córdova [sebastian.andrade.c@mail.pucv.cl] 18/12/2025  
