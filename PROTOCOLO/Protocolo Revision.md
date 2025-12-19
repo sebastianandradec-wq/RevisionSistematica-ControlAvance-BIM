@@ -76,11 +76,12 @@ Revisión en texto completo de los estudios preseleccionados aplicando los mismo
 Sobre una muestra aleatoria del 25 % de los artículos post‑duplicados (n = 25), se compararon las decisiones independientes de los dos revisores (INCLUIDO/EXCLUIDO) y se calculó el coeficiente κ de Cohen a partir de una tabla 2×2. El acuerdo observado fue del 80 % y κ = 0,61 (resultados documentados en `EXTRACCION/Kappa_Concordancia.xlsx`). Las discrepancias (4 cambios de INCLUIDO→EXCLUIDO y 1 de EXCLUIDO→INCLUIDO) se resolvieron por consenso entre S.A.C. y M.T., con participación del profesor guía (J.M.G.) como árbitro en caso de desacuerdo.
 
 ## 8. EXTRACCIÓN DATOS
-**Variables:** [Listar columnas Excel: autor/año/DOI/tipo_metodologia/etc.]
+**Variables:** [TITULO,	AÑO,	AUTOR, DOI,	REVISTA,	RELEVANCIA, Aporta SI/NO,	¿de que forma?,	Identificación del Tipo de Documento,	Evaluación de relevancia para control de avance, PRECISION_%,	RECALL_%,	F1_%,	mAP50_%,	mAP75_%,	mAP50_95_%,	AUC50_%,	AUC75_%,	RMSE_NUM,	MAE_%,	MAE_NUM,	MÉTRICAS_DETECTADAS,		METRICAS_DE_IMPACTO,	OTRAS_METRICAS,	TECNOLOGÍAS_CORE,	TECNOLOGÍAS_SUPPORT, ¿Qué tecnologías o combinación de tecnologías se utilizan en las metodologías de automatización del control de avance y cuál es su nivel de integración?,	¿Cuáles son los procesos constructivos específicos o fases de obra a los que se aplican las metodologías de automatización del control de avance?,	¿Qué componentes metodológicos utiliza cada enfoque para automatizar el ciclo completo del control de avance (captura, procesamiento, comparación y reporte)?,	BRECHA 1,	BRECHA 2,	BRECHA 3,	BRECHA 4.
+(resultados documentados en `EXTRACCION DE DATOS 1.xlsx` y `EXTRACCION DE DATOS 2.xlsx`)
 
 ## 9. EVALUACIÓN RIESGO SESGO
 **Dominios:** Validez externa, tamaño muestra, reproducibilidad, sesgo publicación  
-**Instrumento:** Criterios adaptados ROBIS [Matriz_Riesgo_Sesgo.xlsx]
+**Instrumento:** Criterios adaptados ROBIS (resultados documentados en `Matriz riesgo sesgo.xlsx`)
 
 ## 10. ANÁLISIS PLANEADO
 - **Bibliométrico:** Bibliometrix R (n=429)
