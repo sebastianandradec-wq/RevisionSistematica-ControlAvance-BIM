@@ -69,9 +69,10 @@ Busqueda 2 refinada (BIM OR "Building Information Modeling") AND (computer visio
 
 ## 7. PROCESO SELECCIÓN
 
-- **Cribado 1 (marzo 2025):** Título y resumen de los 97 registros únicos, realizado por un revisor (S.A.C.), clasificando cada estudio en cuatro categorías de aporte de información: completo, incompleto pero relevante, incompleto e insuficiente y no relevante. Solo los estudios con aporte completo o incompleto pero relevante pasaron a texto completo.
-- **Cribado 2 (abril 2025):** Revisión en texto completo de los estudios preseleccionados aplicando los mismos criterios de aporte de información y marcando una **DECISIÓN FINAL** dicotómica (INCLUIDO/EXCLUIDO).
-- **Auto‑validación:** Se repitió el cribado sobre una muestra aleatoria de 25 artículos utilizando la clasificación INCLUIDO/EXCLUIDO en ambas rondas (marzo vs. abril), y se calculó el coeficiente κ de Cohen a partir de una tabla 2×2. El acuerdo observado fue del 80 % y κ = 0,61 (resultados documentados en `EXTRACCION/Kappa_Concordancia.xlsx`).
+- **Cribado 1:** Título y resumen de los 96 registros únicos, realizado de forma independiente por dos revisores (S.A.C. y M.T.), clasificando cada estudio en cuatro categorías de aporte de información: completo, incompleto pero relevante, incompleto e insuficiente y no relevante. Solo los estudios con aporte completo o incompleto pero relevante pasaron a texto completo.
+- **Cribado 2 (S.A.):** Revisión en texto completo de los estudios preseleccionados aplicando los mismos criterios de aporte de información y marcando una **DECISIÓN FINAL** dicotómica (INCLUIDO/EXCLUIDO).**Cribado 2 (texto completo):**  
+Revisión en texto completo de los estudios preseleccionados aplicando los mismos criterios de aporte de información y marcando una **DECISIÓN FINAL** dicotómica (INCLUIDO/EXCLUIDO) por ambos revisores.**Validación y consenso:**  
+Sobre una muestra aleatoria del 25 % de los artículos post‑duplicados (n = 25), se compararon las decisiones independientes de los dos revisores (INCLUIDO/EXCLUIDO) y se calculó el coeficiente κ de Cohen a partir de una tabla 2×2. El acuerdo observado fue del 80 % y κ = 0,61 (resultados documentados en `EXTRACCION/Kappa_Concordancia.xlsx`). Las discrepancias (4 cambios de INCLUIDO→EXCLUIDO y 1 de EXCLUIDO→INCLUIDO) se resolvieron por consenso entre S.A.C. y M.T., con participación del profesor guía (J.M.G.) como árbitro en caso de desacuerdo.
 
 ## 8. EXTRACCIÓN DATOS
 **Variables:** [Listar columnas Excel: autor/año/DOI/tipo_metodologia/etc.]
