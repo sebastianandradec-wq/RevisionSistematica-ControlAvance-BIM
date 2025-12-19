@@ -14,7 +14,7 @@ Revisión sistemática de tecnologías emergentes para automatización del contr
 Inicio: Marzo 2025 | Última actualización: 18-Dic-2025
 
 ## 4. OBJETIVOS
-**General:** Identificar tecnologías emergentes para automatización control avance construcción  
+**General:** Realizar revisión sistematica de tecnologías emergentes para la automatización del control de avance de obras de construcción
 **Específicos:** (1) Realizar el estado del arte de tecnologías emergentes para el monitoreo 
 y control de avance de obras de construcción; (2) Realizar un análisis bibliométrico del
 tema; (3) Analizar y clasificar las metodologías existentes según su tipo de tecnología, 
